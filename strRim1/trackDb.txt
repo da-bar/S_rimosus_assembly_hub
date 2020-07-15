@@ -1,10 +1,11 @@
 track M4018_snps
 type=vcfTabix 
-bigDataUrl=snps_4018.filt.vcf
+bigDataUrl=https://raw.githubusercontent.com/da-bar/S_rimosus_assembly_hub/master/strRim1/snps_4018.filt.vcf
 description     M4018 snps               
 visibility      squish
 
 track R6_snps
-type=vcfTabix bigDataUrl=snps_R6.filt.vcf
+type=vcfTabix 
+bigDataUrl=https://raw.githubusercontent.com/da-bar/S_rimosus_assembly_hub/master/strRim1/snps_R6.filt.vcf
 description     R6-500 snps
 visibility	squish
