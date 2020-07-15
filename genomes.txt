@@ -1,0 +1,9 @@
+genome strRim1
+trackDb strRim1/trackDb.txt
+twoBitPath strRim1/strRim1.2bit
+groups strRim1/groups.txt
+description Streptomyces rimosus WT5260
+organism Streptomyces rimosus
+defaultPos NZ_CP025551.1:637560-655984
+scientificName Streptomyces rimosus
+htmlPath strRim1/description.html 

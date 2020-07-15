@@ -1,0 +1,9 @@
+track type=vcfTabix bigDataUrl=snps_4018_filt.vcf
+name            M4018_snps                
+description     M4018 snps               
+visibility      squish
+
+track type=vcfTabix bigDataUrl=snps_R6_filt.vcf
+name            R6_snps
+description     R6-500 snps
+visibility	squish

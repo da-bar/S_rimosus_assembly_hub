@@ -1,0 +1,6 @@
+hub Streptomyces_rimosus_WT5260
+shortLabel Streptomyces_rimosus_tracks
+longLabel Comparison between S. rimosus wild type and two producer strains
+genomesFile genomes.txt
+email astar@pbf.hr
+descriptionUrl description.html 
